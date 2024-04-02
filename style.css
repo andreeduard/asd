@@ -3,6 +3,7 @@ body {
  }
 
  #banner {
+     width: 100%;
        
  }
 
@@ -22,4 +23,6 @@ p {
  em strong {
     color: #ff0000;
  }
+
+ 
 
